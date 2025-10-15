@@ -1,0 +1,13 @@
+Problem link :- https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1
+Code:-
+class Solution {
+public:
+    int towerOfHanoi(int n, int from, int to, int aux) {
+        if (n == 1) {
+            return 1;
+        }
+        int moves1 = towerOfHanoi(n - 1, from, aux, to);
+        int moves2 = towerOfHanoi(n - 1, aux, to, from);
+        return moves1 + 1 + moves2;
+    }
+};
