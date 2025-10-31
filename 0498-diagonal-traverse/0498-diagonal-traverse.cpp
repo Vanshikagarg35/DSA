@@ -12,13 +12,12 @@ public:
             }
         }
         for(auto &it : mp ){
-            if(flip){
-                reverse(it.second.begin(),it.second.end());
+            if(it.first%2==0){
+                reverse(it.second.begin() ,it.second.end());
             }
-            for(int &num:it.second){
+            for(int &num : it.second){
                 result.push_back(num);
             }
-            flip=!flip;
         }
         return result;
     }
