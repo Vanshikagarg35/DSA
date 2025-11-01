@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
