@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
