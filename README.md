@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
