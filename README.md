@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vanshikagarg35/DSA/tree/master/0058-length-of-last-word) |
+## Enumeration
+|  |
+| ------- |
+| [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
