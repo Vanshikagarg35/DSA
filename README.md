@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshikagarg35/DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vanshikagarg35/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Vanshikagarg35/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0054-spiral-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshikagarg35/DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vanshikagarg35/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
