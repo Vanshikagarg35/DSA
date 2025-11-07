@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
+| [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Vanshikagarg35/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
+| [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
