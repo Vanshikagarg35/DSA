@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int findEquationValue(pair<int, int>& P1, pair<int, int>& P2,
