@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vanshikagarg35/DSA/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
+| [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
