@@ -22,7 +22,7 @@ public:
         for (auto it = mp.begin(); it != mp.end(); ++it) {
             result += it->second + " ";
         }
-        while (!result.empty() && result.back() == ' ') result.pop_back();
+        while (result.back() == ' ') result.pop_back();
         return result;
     }
 };
