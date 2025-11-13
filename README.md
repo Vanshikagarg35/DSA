@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Vanshikagarg35/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Sorting
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vanshikagarg35/DSA/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
