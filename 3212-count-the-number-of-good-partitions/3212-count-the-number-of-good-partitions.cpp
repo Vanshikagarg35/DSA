@@ -4,7 +4,7 @@ public:
     int numberOfGoodPartitions(vector<int>& nums) {
         int n = nums.size();
         unordered_map<int, int> last_index; 
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; i++) {
             last_index[nums[i]] = i;
         }
         int i = 0;
