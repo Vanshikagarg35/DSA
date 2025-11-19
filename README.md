@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
 | [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
+| [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3212-count-the-number-of-good-partitions](https://github.com/Vanshikagarg35/DSA/tree/master/3212-count-the-number-of-good-partitions) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
