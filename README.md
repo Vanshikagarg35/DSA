@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vanshikagarg35/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vanshikagarg35/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vanshikagarg35/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
