@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Vanshikagarg35/DSA/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
@@ -223,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
