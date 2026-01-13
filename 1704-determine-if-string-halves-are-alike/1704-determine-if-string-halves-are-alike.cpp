@@ -1,33 +1,28 @@
 class Solution {
 public:
     bool halvesAreAlike(string s) {
-        int i = 0;
-        int n = s.size();
-        int j = n/2;
-        int countleft = 0;
-        int countRight = 0;
-
-        while (i< n/2 && j<n){
-            if(isVowel(s[i])){
-                countleft++;
-            }
-            if(isVowel(s[j])){
-                countRight++;
-            }
+        int n = s.length();
+        
+        int mid = n/2;
+        
+        int i = 0, j = mid;
+        
+        int countL = 0;
+        int countR = 0;
+        
+        string vowels = "aeiouAEIOU";
+        unordered_set<char> st(begin(vowels), end(vowels));
+        
+        while(i < n/2 && j < n) {
+            if(st.find(s[i]) != st.end()) countL++;
+            
+            if(st.find(s[j]) != st.end()) countR++;
+            
             i++;
             j++;
         }
-        if(countleft==countRight) return true;
-        else{
-            return false;
-        }
         
-    }
-    bool isVowel(char &ch){
-        if ( ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') return true;
-        else{
-
-            return false;
-        }
+        
+        return countL == countR;
     }
 };
