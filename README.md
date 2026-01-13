@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Vanshikagarg35/DSA/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vanshikagarg35/DSA/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
