@@ -8,7 +8,7 @@ public:
             for (char c : s) {
                 st.insert(c);
             }
-            return st.size() < s.size();  // duplicate check
+            return st.size() < s.size();  
         }
 
         vector<int> t;
