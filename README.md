@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
 | [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshikagarg35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 ## Recursion
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Vanshikagarg35/DSA/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Vanshikagarg35/DSA/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
@@ -228,9 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vanshikagarg35/DSA/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 ## Counting
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
