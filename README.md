@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
+| [0859-buddy-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0859-buddy-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Vanshikagarg35/DSA/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/Vanshikagarg35/DSA/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0859-buddy-strings) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
