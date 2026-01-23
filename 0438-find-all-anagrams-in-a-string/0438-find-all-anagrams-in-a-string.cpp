@@ -1,31 +1,37 @@
 class Solution {
 public:
-    vector<int> findAnagrams(string s, string p) {
-        vector<int> arr(26, 0);
-        
-        int m = s.length();
-        int n = p.length();
-        
-        for(char &ch : p)
-            arr[ch-'a']++;
-        
-        int i = 0, j = 0;
-        vector<int> result;
-        
-        while(j < m) {
-            arr[s[j] - 'a']--;
+    bool allZero(vector<int>&counter){
+        for(int &i : counter){
+            if(i!=0) return false;
             
-            if(j-i+1 == n) {
-                if(arr == vector<int>(26, 0)) {
+        }
+        return true;
+    }
+    vector<int> findAnagrams(string s, string p) {
+        int n = s.size();
+        vector<int>counter(26,0);
+        for(int i=0; i<p.size(); i++){
+            char ch = p[i];
+            counter[ch - 'a']++;
+
+        }
+        int i = 0;
+        int j = 0;
+        vector<int> result;
+        int k = p.size();
+        while(j<n){
+            counter[s[j]-'a']--;
+            if(j-i+1==k){
+                if(allZero(counter)){
                     result.push_back(i);
+
                 }
-                
-                arr[s[i]-'a']++;
+                counter[s[i]-'a']++;
                 i++;
             }
             j++;
         }
-        
         return result;
+
     }
 };
