@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vanshikagarg35/DSA/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshikagarg35/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vanshikagarg35/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
