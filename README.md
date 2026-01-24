@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Vanshikagarg35/DSA/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vanshikagarg35/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## String Matching
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Backtracking
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
