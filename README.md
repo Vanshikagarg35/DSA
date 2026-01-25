@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Vanshikagarg35/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vanshikagarg35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2090-k-radius-subarray-averages](https://github.com/Vanshikagarg35/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## String Matching
 |  |
