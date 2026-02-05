@@ -1,39 +1,33 @@
 class Solution {
 public:
-    bool allZeroNeg(vector<int>& counter) {
-        for(int i : counter) {
-            if(i > 0) return false;
+    bool zeroOne(vector<int> &counter){
+        for(int &i : counter){
+            if(i>0) return false;
+
         }
         return true;
     }
-    
     string minWindow(string s, string t) {
-        int n = s.size();
-        vector<int> counter(128, 0);  
-        
-        for(char ch : t) {
-            counter[ch]++; 
+        int i = 0;
+        int j = 0;
+        int minSize =INT_MAX;
+        int minStart=0;
+        vector<int>counter(128,0);
+        for(int i = 0; i<t.length(); i++){
+            counter[t[i]]++;
         }
-        
-        int i = 0, j = 0;
-        int minLen = INT_MAX;
-        int minStart = 0;
-        
-        while(j < n) {
+        while(j<s.length()){
             counter[s[j]]--;
-            
-            while(allZeroNeg(counter)) {
-                if(j - i + 1 < minLen) {
-                    minLen = j - i + 1;
+            while(zeroOne(counter)){
+                if(j - i + 1 < minSize){
+                    minSize = j - i + 1;
                     minStart = i;
                 }
                 counter[s[i]]++;
                 i++;
             }
-            
             j++;
         }
-        
-        return minLen == INT_MAX ? "" : s.substr(minStart, minLen);
+        return minSize == INT_MAX? "":s.substr(minStart,minSize);
     }
 };
