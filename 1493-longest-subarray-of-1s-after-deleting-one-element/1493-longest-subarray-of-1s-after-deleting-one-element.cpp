@@ -1,23 +1,19 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int i = 0, j = 0;
-        
-        int last_zero_idx = -1;
-        
-        int result = 0;
-        
-        while(j < nums.size()) {
-            
-            if(nums[j] == 0) {
-                i = last_zero_idx+1;
-                last_zero_idx = j;
+        int i = 0;
+        int j = 0;
+        int count = 0;
+        int maxCount = 0;
+        while(j<nums.size()){
+            while(count>1){
+                if(nums[i]==0) count--;
+                i++;  
             }
-            
-            result = max(result, j-i);
+            if(nums[j]==0) count++;
+            if(count<=1) maxCount = max(maxCount , j-i);
             j++;
         }
-        
-        return result;
+        return maxCount;
     }
 };
