@@ -6,8 +6,8 @@ public:
         int left = 0;
         long long sum = 0;
         int maxFreq = 0;
-        
-        for(int right = 0; right < nums.size(); right++) {
+        int right = 0;
+        while(right<nums.size()){
             sum += nums[right];
 
             while((long long)nums[right] * (right - left + 1) - sum > k) {
@@ -16,6 +16,7 @@ public:
             }
             
             maxFreq = max(maxFreq, right - left + 1);
+            right++;
         }
         
         return maxFreq;
