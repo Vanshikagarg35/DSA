@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanshikagarg35/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
