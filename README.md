@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Vanshikagarg35/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/Vanshikagarg35/DSA/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
@@ -312,7 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Vanshikagarg35/DSA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vanshikagarg35/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vanshikagarg35/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
