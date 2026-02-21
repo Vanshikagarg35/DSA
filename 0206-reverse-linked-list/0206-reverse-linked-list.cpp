@@ -10,14 +10,19 @@
  */
 class Solution {
 public:
-    ListNode* Reverse(ListNode *curr , ListNode *prev){
-        if(curr==NULL) return prev;
-        ListNode *fut = curr->next;
-        curr->next = prev;
-        return Reverse(fut , curr);
-
-    }
     ListNode* reverseList(ListNode* head) {
-        return Reverse(head,NULL);
+        vector<int> arr;
+        ListNode* temp = head;
+        while (temp != NULL) {
+            arr.push_back(temp->val);
+            temp = temp->next;
+        }
+        temp = head;
+        for (int i = arr.size() - 1; i >= 0; i--) {
+            temp->val = arr[i];
+            temp = temp->next;
+        }
+        
+        return head;
     }
 };
