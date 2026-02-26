@@ -1,25 +1,19 @@
 class Solution {
-private:
-    ListNode* headNode;
-
 public:
+    ListNode* temp;
     Solution(ListNode* head) {
-        headNode = head;
+        temp = head;
     }
-    
     int getRandom() {
-        int res = 0;
-        ListNode* curr = headNode;
+        int res;
+        ListNode* curr = temp;
         int size = 1;
-
-        while(curr != nullptr) {
-            if(rand() % size == 0) {
+        while(curr) {
+            if(rand()%size == 0)
                 res = curr->val;
-            }
             curr = curr->next;
             size++;
         }
-        
         return res;
     }
 };
