@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vanshikagarg35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sorting
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Vanshikagarg35/DSA/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/Vanshikagarg35/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0859-buddy-strings) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Vanshikagarg35/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Vanshikagarg35/DSA/tree/master/0901-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vanshikagarg35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
