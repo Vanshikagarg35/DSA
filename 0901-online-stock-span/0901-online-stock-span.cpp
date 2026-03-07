@@ -1,22 +1,26 @@
+
 class StockSpanner {
 private:
-    vector<int> history;
+    vector<int> prices;
+
 public:
     StockSpanner() {
+   
     }
     
     int next(int price) {
-        history.push_back(price);
+
+        prices.push_back(price);
         
-        int span = 0;
-        for (int i = history.size() - 1; i >= 0; i--) {
-            if (history[i] <= price) {
-                span++; 
-            } 
-            else {
-                break; 
-            }
+        int span = 1; 
+
+        int i = prices.size() - 2; 
+
+        while (i >= 0 && prices[i] <= price) {
+            span++;
+            i--;    
         }
+        
         return span;
     }
 };
