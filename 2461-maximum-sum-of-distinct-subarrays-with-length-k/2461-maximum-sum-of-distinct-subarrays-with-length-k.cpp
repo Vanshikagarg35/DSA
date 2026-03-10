@@ -6,23 +6,16 @@ public:
         long long sum = 0;    
         long long maxSum = 0; 
         int count = 0;
-        unordered_set<int> freq;
+        vector<int> freq(100005, 0);
 
         while(j < nums.size()){
-            while(freq.find(nums[j])!=freq.end()){
-                sum-=nums[i];
-                freq.erase(nums[i]);
-                count--;
-                i++;
-
-            }
             sum += nums[j];
-            freq.insert(nums[j]);
+            freq[nums[j]]++;
             count++;
          
-            while(count>k) { 
+            while(freq[nums[j]]>1 || count>k) { 
                 sum -= nums[i];
-                freq.erase(nums[i]);
+                freq[nums[i]]--;
                 count--;
                 i++;
             }
