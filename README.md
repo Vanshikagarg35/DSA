@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vanshikagarg35/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1970-sorting-the-sentence](https://github.com/Vanshikagarg35/DSA/tree/master/1970-sorting-the-sentence) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vanshikagarg35/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vanshikagarg35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
