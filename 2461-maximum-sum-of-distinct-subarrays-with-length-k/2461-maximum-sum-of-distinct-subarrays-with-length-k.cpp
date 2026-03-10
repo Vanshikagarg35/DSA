@@ -2,30 +2,23 @@ class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         int i = 0;
-        int j = 0;
-        long long sum = 0;    
-        long long maxSum = 0; 
-        int count = 0;
+        long long sum = 0, maxSum = 0;
         vector<int> freq(100005, 0);
 
-        while(j < nums.size()){
+        for (int j = 0; j < nums.size(); j++) {
             sum += nums[j];
             freq[nums[j]]++;
-            count++;
-         
-            while(freq[nums[j]]>1 || count>k) { 
+
+            while (freq[nums[j]] > 1 || (j - i + 1) > k) { 
                 sum -= nums[i];
                 freq[nums[i]]--;
-                count--;
                 i++;
             }
-
-            if(count == k){
+            if (j - i + 1 == k) {
                 maxSum = max(sum, maxSum);
             }
-            
-            j++;
         }
+        
         return maxSum;
     }
 };
