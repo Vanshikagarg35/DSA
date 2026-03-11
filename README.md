@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vanshikagarg35/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vanshikagarg35/DSA/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Vanshikagarg35/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Vanshikagarg35/DSA/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Vanshikagarg35/DSA/tree/master/0093-restore-ip-addresses) |
 | [0224-basic-calculator](https://github.com/Vanshikagarg35/DSA/tree/master/0224-basic-calculator) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vanshikagarg35/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Vanshikagarg35/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vanshikagarg35/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vanshikagarg35/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Vanshikagarg35/DSA/tree/master/0232-implement-queue-using-stacks) |
