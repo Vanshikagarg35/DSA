@@ -1,37 +1,33 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        string temp;
-        string result;
-        int opencount = 0;
-        int closecount = 0;
-        for(int i = 0; i<s.length();i++){
-            if(s[i]=='('){
-                opencount++;
-                temp.push_back(s[i]);
-            }
-            else if(s[i]!='(' && s[i]!=')') temp.push_back(s[i]);
-            else if(s[i]==')'){
-                if(opencount>0){
-                    temp.push_back(s[i]);
-                    opencount--;
+        int openCount = 0;
+        int n = s.length();
+
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(') {
+                openCount++;
+            } else if (s[i] == ')') {
+                if (openCount > 0) {
+                    openCount--; 
+                } else {
+                    s[i] = '*'; 
                 }
             }
         }
-        for(int i = temp.length()-1; i>=0; i--){
-            if(temp[i]!='(' && temp[i]!=')') result.push_back(temp[i]);
-            else if(temp[i]==')'){
-                closecount++;
-                result.push_back(temp[i]);
-            }
-            else if(temp[i]=='('){
-                if(closecount>0){
-                    result.push_back(temp[i]);
-                    closecount--;
-                }
+        for (int i = n - 1; i >= 0; i--) {
+            if (openCount > 0 && s[i] == '(') {
+                s[i] = '*'; 
+                openCount--;
             }
         }
-        reverse(result.begin(),result.end());
+        string result = "";
+        for (int i = 0; i < n; i++) {
+            if (s[i] != '*') {
+                result.push_back(s[i]);
+            }
+        }
+        
         return result;
     }
 };
