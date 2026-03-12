@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vanshikagarg35/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vanshikagarg35/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Vanshikagarg35/DSA/tree/master/0946-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vanshikagarg35/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Vanshikagarg35/DSA/tree/master/0946-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Vanshikagarg35/DSA/tree/master/1002-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vanshikagarg35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vanshikagarg35/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
