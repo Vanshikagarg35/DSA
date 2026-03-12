@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vanshikagarg35/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Vanshikagarg35/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vanshikagarg35/DSA/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Vanshikagarg35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/Vanshikagarg35/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vanshikagarg35/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Vanshikagarg35/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Vanshikagarg35/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Vanshikagarg35/DSA/tree/master/0735-asteroid-collision) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vanshikagarg35/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Vanshikagarg35/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vanshikagarg35/DSA/tree/master/0901-online-stock-span) |
