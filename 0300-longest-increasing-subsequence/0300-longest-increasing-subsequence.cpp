@@ -1,29 +1,23 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> t(n + 1, vector<int>(n + 1, -1));
-        return solve(nums, t, -1, 0, n);
+    int n;
+    int t[2501][2501];
+    int solve(int previdx , int curridx , vector<int> &nums){
+        if(curridx>=n) return 0;
+        if(previdx!=-1 && t[previdx][curridx]!=-1) return t[previdx][curridx];
+        int take = 0;
+        if(previdx==-1 || nums[curridx]>nums[previdx]){
+            take = 1+solve(curridx , curridx+1 , nums);
+        }
+        int skip = solve(previdx , curridx+1 , nums);
+        if(previdx != -1)
+            t[previdx][curridx] =  max(take, skip);
+        return max(take , skip);
     }
-    
-    int solve(vector<int>& nums, vector<vector<int>>& t, int previdx, int curridx, int n){
-        if(curridx == n) return 0;
-        
-        if(previdx != -1 && t[previdx][curridx] != -1){
-            return t[previdx][curridx];
-        }
-        
-        int taken=0;
-        if(previdx == -1 || nums[curridx] > nums[previdx]){
-            taken = 1 + solve(nums, t, curridx, curridx + 1, n);
-        }
-        
-        int notaken = solve(nums, t, previdx, curridx + 1, n);
-        
-        if(previdx != -1){
-            t[previdx][curridx] = max(taken, notaken);
-        }
-        
-        return max(taken, notaken);
+
+    int lengthOfLIS(vector<int>& nums) {
+        n = nums.size();
+        memset(t,-1,sizeof(t));
+        return solve(-1 , 0 , nums);
     }
 };
