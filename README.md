@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vanshikagarg35/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/Vanshikagarg35/DSA/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vanshikagarg35/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vanshikagarg35/DSA/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Vanshikagarg35/DSA/tree/master/0174-dungeon-game) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
+| [0931-minimum-falling-path-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vanshikagarg35/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Vanshikagarg35/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Vanshikagarg35/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Vanshikagarg35/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
