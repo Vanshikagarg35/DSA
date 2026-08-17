@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Vanshikagarg35/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vanshikagarg35/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Vanshikagarg35/DSA/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Vanshikagarg35/DSA/tree/master/0686-repeated-string-match) |
