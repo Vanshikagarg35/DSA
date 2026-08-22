@@ -1,26 +1,27 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        map<char,int>mp;
-        bool hasOdd = false;
+        int count[128] = {0};
         int length = 0;
-        for(int i=0; i<s.length(); i++){
-            mp[s[i]]++;
+        bool hasOdd = false;
+        
+        for (char c : s) {
+            count[c]++;
         }
-        for(auto it : mp){
-            int freq = it.second;
-            if(freq % 2 == 0){
-                length+=freq;
-            }
-            else{
+        
+        for (int freq : count) {
+            if (freq % 2 == 0) {
+                length += freq;
+            } else {
+                length += freq - 1;
                 hasOdd = true;
-                length+=freq-1;
-
             }
         }
-        if (hasOdd){
-            length+=1;
+        
+        if (hasOdd) {
+            length += 1;
         }
+        
         return length;
     }
 };
