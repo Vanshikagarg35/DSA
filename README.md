@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vanshikagarg35/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Vanshikagarg35/DSA/tree/master/0645-set-mismatch) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanshikagarg35/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vanshikagarg35/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Geometry
 |  |
 | ------- |
