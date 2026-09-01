@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vanshikagarg35/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Vanshikagarg35/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vanshikagarg35/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vanshikagarg35/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Vanshikagarg35/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Vanshikagarg35/DSA/tree/master/0231-power-of-two) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vanshikagarg35/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Vanshikagarg35/DSA/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Vanshikagarg35/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vanshikagarg35/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Vanshikagarg35/DSA/tree/master/0131-palindrome-partitioning) |
