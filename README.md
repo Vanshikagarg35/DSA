@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanshikagarg35/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vanshikagarg35/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshikagarg35/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Vanshikagarg35/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vanshikagarg35/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Geometry
 |  |
